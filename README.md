@@ -1,6 +1,4 @@
-# Random-Activities
-
-# I'm Bored - Activity Finder
+# Activity Finder
 
 This is a simple web application built using **Express** that fetches random or filtered activities based on user input from the [Bored API](https://bored-api.appbrewery.com/).
 
